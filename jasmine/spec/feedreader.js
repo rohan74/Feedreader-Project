@@ -39,7 +39,7 @@ describe('RSS Feeds', function() {
         expect(feed.url).toBeDefined();
         //test for non-empty url
         expect(feed.url.length).not.toBe(0);
-          })
+          });
     });
 
         /* TODO: Write a test that loops through each feed
@@ -53,7 +53,7 @@ describe('RSS Feeds', function() {
         expect(feed.name).toBeDefined();
         //test for non-empty url
         expect(feed.name.length).not.toBe(0);
-    })
+    });
     });
  });
 
