@@ -38,7 +38,7 @@
             expect(feed.url).toBeDefined();
             //test for non-empty url
             expect(feed.url).not.toBe(0);
-        })
+        });
         });
 
         /* TODO: Write a test that loops through each feed
@@ -52,7 +52,7 @@
             expect(feed.name).toBeDefined();
             //test for non-empty url
             expect(feed.name).not.toBe(0);
-        })
+        });
         });
      });
 
