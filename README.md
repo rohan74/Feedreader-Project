@@ -7,6 +7,6 @@ These test were wirrten by keepng business logic of the application in mind and 
 
 # Instruction 
 1.To run this, clone the repositery
-2.Run <pre><code>live-server<code></pre> within the project's top-level directory. (npm should be pre-installed to run this command)
+2.Run `live-server` within the project's top-level directory. (npm should be pre-installed to run this command)
 3.Test are written in jasmine/spec/feedreader.js 
 
