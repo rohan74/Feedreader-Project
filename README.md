@@ -8,5 +8,7 @@ These test were wirrten by keepng business logic of the application in mind and 
 # Instruction 
 1. To run this, clone the repositery
 2. Run `live-server` within the project's top-level directory. (npm should be pre-installed to run this command)
-3. Test are written in jasmine/spec/feedreader.js 
+3. The application will run the Jasmine tests automatically and print the results at the bottom of the web-page.
+4. Test are written in jasmine/spec/feedreader.js 
+
 
